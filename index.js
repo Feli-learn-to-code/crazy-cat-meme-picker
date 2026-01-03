@@ -40,7 +40,7 @@ function renderCat(){
         `
         <img 
         class="cat-img" 
-        src="./images/${cat.image}"
+        src="${cat.image}"
         alt="${cat.alt}"
         >
         `
